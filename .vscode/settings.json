@@ -1,0 +1,6 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.deploySubpath": "dist/my-first-app"
+}
